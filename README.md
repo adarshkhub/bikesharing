@@ -4,6 +4,8 @@ Analysis done using Jupyter Notebook, Tableau Public
 ## Overview
 The task was to analyze citibike usage data in New York City in order to determine the viability of a citibike sharing business in Des Moines, Iowa
 
+[link to dashboard] (https://public.tableau.com/app/profile/adarsh.kandaswamy/viz/RidesharingGraphs/Story1)
+
 ## Results
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/67844710/199644642-26efa54a-5451-4432-9f12-6e0d5e8e0100.png)
